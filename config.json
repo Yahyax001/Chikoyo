@@ -1,5 +1,4 @@
 {
-  "TOKEN": "OTk1MDYxODMzNzU5MTk1MjU2.GVyxhc.rCV9A4RSk6FV1CcUGnl2F19joqKxKT4l3lquKc",
   "color": "#303136",
   "database": "mongodb+srv://new:onyx1230@cluster0.srk2y.mongodb.net/?retryWrites=true&w=majority",
   "database2": "mongodb+srv://new:onyx1230@cluster0.srk2y.mongodb.net/?retryWrites=true&w=majority"
