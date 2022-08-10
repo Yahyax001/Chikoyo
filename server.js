@@ -48,4 +48,4 @@ fs.readdir("./events/", (err, files) => {
   });
 });
  
-client.login(process.env.TOKEN) 
+client.login("OTk1MDYxODMzNzU5MTk1MjU2.GAumCn.M2iCb9b4x8AwSaRiV6xroTT-QBBlt9aS4JWCBw") 
